@@ -1,0 +1,35 @@
+{
+    "name": "drawer",
+    "version": "0.0.1",
+    "title": "jQuery Drawer",
+    "author": {
+        "name": "Arpan Chaudhury",
+        "url": "http://github.com/arpanchaudhury",
+        "email": "arpanchaudhury@gmail.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": "2.2.0"
+    },
+    "description": "Assisting the user to stack a set of DOM elements one on other and simulate a drawer interaction pattern on them.",
+    "keywords": [
+        "drawer",
+        "stack",
+        "dropdown",
+	"rollup"
+    ],
+    "homepage": "https://github.com/arpanchaudhury/jquery-drawer",
+    "contributors": [
+        {
+            "name": "Arpan Chaudhury",
+            "email": "arpanchaudhury@gmail.com"
+        },
+    ],
+    "files": [
+        "src/"
+    ]
+}
