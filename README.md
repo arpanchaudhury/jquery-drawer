@@ -1,9 +1,11 @@
 # JQuery Drawer
 
-JQuery Drawer is a small jquery plugin enabling users to simulate behavior of drawer on a set of a large variety of DOM elemnents.
+N.B. ```This project is under development.```
 
-  - Simple & Robust
-  - Smooth Integration
+JQuery Drawer is a small jquery plugin enabling users to simulate behavior of drawer on a set of a large variety of DOM elements.
+
+  - Simple & robust
+  - Smooth integration
   - Easily extendable
 
 ### Version
@@ -32,7 +34,9 @@ MIT
 
 **Free Software, Hell Yeah!**
 
+
    [drawer]: <https://github.com/arpanchaudhury/jquery-drawer>
    [git-repo-url]: <https://github.com/arpanchaudhury/jquery-drawer.git>
    [Arpan Chaudhury]: <https://in.linkedin.com/in/arpanc>
    [jQuery]: <http://jquery.com>
+
