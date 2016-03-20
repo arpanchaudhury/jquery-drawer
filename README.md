@@ -15,7 +15,7 @@ JQuery Drawer uses following open source projects to work properly:
 
 * [jQuery] - duh
 
-And of course Dillinger itself is open source with a [public repository][drawer]
+And of course JQuery Drawer itself is open source with a [public repository][drawer]
  on GitHub.
 
 Authors
